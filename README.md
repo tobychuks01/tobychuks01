@@ -2,7 +2,7 @@
 
 ## AI Engineer • Data Scientist • Builder of Intelligent Systems
 
-I turn raw, messy data into **production-ready machine learning systems** that solve real problems — not just notebook demos.
+I turn raw, messy data into **production-ready machine learning systems** that solve real problems not just notebook demos.
 
 I specialize in building end-to-end ML pipelines that actually ship:
 from data cleaning → feature engineering → model training → ensemble learning → evaluation → API deployment.
