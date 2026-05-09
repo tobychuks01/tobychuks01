@@ -18,7 +18,7 @@ Right now, I’m focused on building **high-performance AI systems for real-worl
 - 🧹 Data Cleaning & Feature Engineering (the real work behind good models)
 - 📊 Model Evaluation (ROC-AUC, precision/recall, F1, bias/variance control)
 - ⚙️ Production ML (FastAPI, scalable inference pipelines)
-- ☁️ End-to-end ML Systems (from Kaggle notebooks to deployable APIs)
+- ☁️ End-to-end ML Systems (from notebooks to deployable APIs)
 
 ---
 
